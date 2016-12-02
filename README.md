@@ -1,5 +1,4 @@
-# test
+# tyh's github blog!
 
-only a test!
 
-@2016.12.2
+@2016
